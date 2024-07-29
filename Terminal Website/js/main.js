@@ -101,7 +101,7 @@ function commander(cmd) {
     case "portfolio":
       addLine("Opening...", 80);
       setTimeout(function() {
-        window.open('https://artfulwall.art/');
+        window.open('https://salahboussettah.online/');
       }, 1000); 
       break;
     case "social":
