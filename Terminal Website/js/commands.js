@@ -1,5 +1,5 @@
 var twitter = "https://www.twitter.com/";
-var password = "abir";
+var password = "Fatim Ezzahra";
 var instagram = "https://www.instagram.com/salahbsth/";
 var github = "https://github.com/";
 var facebook = "https://www.facebook.com/sallah.boussettah";
